@@ -113,5 +113,5 @@ void loop() {
   strip.setPixelColor(led, red, green , blue, white);
   delay(wait);
   strip.show();
-
+  // Ctrl+C and Ctrl+V is alwayas your friends
 }
